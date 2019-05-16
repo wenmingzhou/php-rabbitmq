@@ -1,0 +1,13 @@
+{
+    "name": "zhou/workbench",
+    "authors": [
+        {
+            "name": "zhou",
+            "email": "a@a.com"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.1",
+	"php-amqplib/php-amqplib": "^2.9"
+    }
+}
